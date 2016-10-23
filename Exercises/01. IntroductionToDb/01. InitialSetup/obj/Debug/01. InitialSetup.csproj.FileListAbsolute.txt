@@ -1,0 +1,11 @@
+C:\Users\v\Documents\Visual Studio 2015\Projects\IntroductionToDb\IntroductionToDb\bin\Debug\IntroductionToDb.exe.config
+C:\Users\v\Documents\Visual Studio 2015\Projects\IntroductionToDb\IntroductionToDb\obj\Debug\IntroductionToDb.exe
+C:\Users\v\Documents\Visual Studio 2015\Projects\IntroductionToDb\IntroductionToDb\obj\Debug\IntroductionToDb.pdb
+C:\Users\v\Documents\Visual Studio 2015\Projects\IntroductionToDb\IntroductionToDb\bin\Debug\IntroductionToDb.exe
+C:\Users\v\Documents\Visual Studio 2015\Projects\IntroductionToDb\IntroductionToDb\bin\Debug\IntroductionToDb.pdb
+C:\Users\v\Documents\Visual Studio 2015\Projects\IntroductionToDb\IntroductionToDb\obj\Debug\01. InitialSetup.csprojResolveAssemblyReference.cache
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\IntroductionToDb\IntroductionToDb\bin\Debug\IntroductionToDb.exe.config
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\IntroductionToDb\IntroductionToDb\obj\Debug\IntroductionToDb.exe
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\IntroductionToDb\IntroductionToDb\obj\Debug\IntroductionToDb.pdb
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\IntroductionToDb\IntroductionToDb\bin\Debug\01. InitialSetup.exe.config
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\IntroductionToDb\01. InitialSetup\bin\Debug\01. InitialSetup.exe.config

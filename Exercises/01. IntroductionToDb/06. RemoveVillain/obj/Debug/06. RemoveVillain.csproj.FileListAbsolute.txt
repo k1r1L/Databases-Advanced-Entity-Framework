@@ -1,0 +1,9 @@
+C:\Users\v\Documents\Visual Studio 2015\Projects\IntroductionToDb\06. RemoveVillain\bin\Debug\_06.RemoveVillain.exe.config
+C:\Users\v\Documents\Visual Studio 2015\Projects\IntroductionToDb\06. RemoveVillain\bin\Debug\_06.RemoveVillain.exe
+C:\Users\v\Documents\Visual Studio 2015\Projects\IntroductionToDb\06. RemoveVillain\bin\Debug\_06.RemoveVillain.pdb
+C:\Users\v\Documents\Visual Studio 2015\Projects\IntroductionToDb\06. RemoveVillain\obj\Debug\06. RemoveVillain.csprojResolveAssemblyReference.cache
+C:\Users\v\Documents\Visual Studio 2015\Projects\IntroductionToDb\06. RemoveVillain\obj\Debug\_06.RemoveVillain.exe
+C:\Users\v\Documents\Visual Studio 2015\Projects\IntroductionToDb\06. RemoveVillain\obj\Debug\_06.RemoveVillain.pdb
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\IntroductionToDb\06. RemoveVillain\bin\Debug\_06.RemoveVillain.exe.config
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\IntroductionToDb\06. RemoveVillain\obj\Debug\_06.RemoveVillain.exe
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\IntroductionToDb\06. RemoveVillain\obj\Debug\_06.RemoveVillain.pdb

@@ -1,0 +1,6 @@
+C:\Users\v\Documents\Visual Studio 2015\Projects\IntroductionToDb\04. AddMinions\bin\Debug\_04.AddMinions.exe.config
+C:\Users\v\Documents\Visual Studio 2015\Projects\IntroductionToDb\04. AddMinions\bin\Debug\_04.AddMinions.exe
+C:\Users\v\Documents\Visual Studio 2015\Projects\IntroductionToDb\04. AddMinions\bin\Debug\_04.AddMinions.pdb
+C:\Users\v\Documents\Visual Studio 2015\Projects\IntroductionToDb\04. AddMinions\obj\Debug\_04.AddMinions.exe
+C:\Users\v\Documents\Visual Studio 2015\Projects\IntroductionToDb\04. AddMinions\obj\Debug\_04.AddMinions.pdb
+C:\Users\v\Documents\Visual Studio 2015\Projects\IntroductionToDb\04. AddMinions\obj\Debug\04. AddMinions.csprojResolveAssemblyReference.cache

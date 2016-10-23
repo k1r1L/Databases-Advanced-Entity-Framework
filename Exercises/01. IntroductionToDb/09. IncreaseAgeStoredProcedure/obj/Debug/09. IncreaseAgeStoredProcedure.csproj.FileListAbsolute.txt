@@ -1,0 +1,6 @@
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\IntroductionToDb\09. IncreaseAgeStoredProcedure\bin\Debug\_09.IncreaseAgeStoredProcedure.exe.config
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\IntroductionToDb\09. IncreaseAgeStoredProcedure\bin\Debug\_09.IncreaseAgeStoredProcedure.exe
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\IntroductionToDb\09. IncreaseAgeStoredProcedure\bin\Debug\_09.IncreaseAgeStoredProcedure.pdb
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\IntroductionToDb\09. IncreaseAgeStoredProcedure\obj\Debug\09. IncreaseAgeStoredProcedure.csprojResolveAssemblyReference.cache
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\IntroductionToDb\09. IncreaseAgeStoredProcedure\obj\Debug\_09.IncreaseAgeStoredProcedure.exe
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\IntroductionToDb\09. IncreaseAgeStoredProcedure\obj\Debug\_09.IncreaseAgeStoredProcedure.pdb

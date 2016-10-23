@@ -1,0 +1,9 @@
+C:\Users\v\Documents\Visual Studio 2015\Projects\IntroductionToDb\07. PrintAllMinionNames\bin\Debug\_07.PrintAllMinionNames.exe.config
+C:\Users\v\Documents\Visual Studio 2015\Projects\IntroductionToDb\07. PrintAllMinionNames\bin\Debug\_07.PrintAllMinionNames.exe
+C:\Users\v\Documents\Visual Studio 2015\Projects\IntroductionToDb\07. PrintAllMinionNames\bin\Debug\_07.PrintAllMinionNames.pdb
+C:\Users\v\Documents\Visual Studio 2015\Projects\IntroductionToDb\07. PrintAllMinionNames\obj\Debug\07. PrintAllMinionNames.csprojResolveAssemblyReference.cache
+C:\Users\v\Documents\Visual Studio 2015\Projects\IntroductionToDb\07. PrintAllMinionNames\obj\Debug\_07.PrintAllMinionNames.exe
+C:\Users\v\Documents\Visual Studio 2015\Projects\IntroductionToDb\07. PrintAllMinionNames\obj\Debug\_07.PrintAllMinionNames.pdb
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\IntroductionToDb\07. PrintAllMinionNames\bin\Debug\_07.PrintAllMinionNames.exe.config
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\IntroductionToDb\07. PrintAllMinionNames\obj\Debug\_07.PrintAllMinionNames.exe
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\IntroductionToDb\07. PrintAllMinionNames\obj\Debug\_07.PrintAllMinionNames.pdb

@@ -1,0 +1,9 @@
+C:\Users\v\Documents\Visual Studio 2015\Projects\IntroductionToDb\08. IncreaseMinionAge\bin\Debug\_08.IncreaseMinionAge.exe.config
+C:\Users\v\Documents\Visual Studio 2015\Projects\IntroductionToDb\08. IncreaseMinionAge\bin\Debug\_08.IncreaseMinionAge.exe
+C:\Users\v\Documents\Visual Studio 2015\Projects\IntroductionToDb\08. IncreaseMinionAge\bin\Debug\_08.IncreaseMinionAge.pdb
+C:\Users\v\Documents\Visual Studio 2015\Projects\IntroductionToDb\08. IncreaseMinionAge\obj\Debug\08. IncreaseMinionAge.csprojResolveAssemblyReference.cache
+C:\Users\v\Documents\Visual Studio 2015\Projects\IntroductionToDb\08. IncreaseMinionAge\obj\Debug\_08.IncreaseMinionAge.exe
+C:\Users\v\Documents\Visual Studio 2015\Projects\IntroductionToDb\08. IncreaseMinionAge\obj\Debug\_08.IncreaseMinionAge.pdb
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\IntroductionToDb\08. IncreaseMinionAge\bin\Debug\_08.IncreaseMinionAge.exe.config
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\IntroductionToDb\08. IncreaseMinionAge\obj\Debug\_08.IncreaseMinionAge.exe
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\IntroductionToDb\08. IncreaseMinionAge\obj\Debug\_08.IncreaseMinionAge.pdb

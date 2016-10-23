@@ -1,0 +1,6 @@
+C:\Users\v\Documents\Visual Studio 2015\Projects\IntroductionToDb\02. GetVilliansNames\bin\Debug\_02.GetVilliansNames.exe.config
+C:\Users\v\Documents\Visual Studio 2015\Projects\IntroductionToDb\02. GetVilliansNames\bin\Debug\_02.GetVilliansNames.exe
+C:\Users\v\Documents\Visual Studio 2015\Projects\IntroductionToDb\02. GetVilliansNames\bin\Debug\_02.GetVilliansNames.pdb
+C:\Users\v\Documents\Visual Studio 2015\Projects\IntroductionToDb\02. GetVilliansNames\obj\Debug\02. GetVilliansNames.csprojResolveAssemblyReference.cache
+C:\Users\v\Documents\Visual Studio 2015\Projects\IntroductionToDb\02. GetVilliansNames\obj\Debug\_02.GetVilliansNames.exe
+C:\Users\v\Documents\Visual Studio 2015\Projects\IntroductionToDb\02. GetVilliansNames\obj\Debug\_02.GetVilliansNames.pdb

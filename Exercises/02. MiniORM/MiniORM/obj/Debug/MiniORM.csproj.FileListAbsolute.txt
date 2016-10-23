@@ -1,0 +1,12 @@
+C:\Users\v\Documents\Visual Studio 2015\Projects\Exercises-MiniORM\MiniORM\bin\Debug\MiniORM.exe.config
+C:\Users\v\Documents\Visual Studio 2015\Projects\Exercises-MiniORM\MiniORM\bin\Debug\MiniORM.exe
+C:\Users\v\Documents\Visual Studio 2015\Projects\Exercises-MiniORM\MiniORM\bin\Debug\MiniORM.pdb
+C:\Users\v\Documents\Visual Studio 2015\Projects\Exercises-MiniORM\MiniORM\obj\Debug\MiniORM.csprojResolveAssemblyReference.cache
+C:\Users\v\Documents\Visual Studio 2015\Projects\Exercises-MiniORM\MiniORM\obj\Debug\MiniORM.exe
+C:\Users\v\Documents\Visual Studio 2015\Projects\Exercises-MiniORM\MiniORM\obj\Debug\MiniORM.pdb
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\Exercises-MiniORM\MiniORM\bin\Debug\MiniORM.exe.config
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\Exercises-MiniORM\MiniORM\obj\Debug\MiniORM.exe
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\Exercises-MiniORM\MiniORM\obj\Debug\MiniORM.pdb
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\Exercises-MiniORM\MiniORM\bin\Debug\MiniORM.exe
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\Exercises-MiniORM\MiniORM\bin\Debug\MiniORM.pdb
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\Exercises-MiniORM\MiniORM\obj\Debug\MiniORM.csprojResolveAssemblyReference.cache

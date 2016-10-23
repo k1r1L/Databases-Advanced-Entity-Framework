@@ -1,0 +1,9 @@
+C:\Users\v\Documents\Visual Studio 2015\Projects\IntroductionToDb\05. ChangeTownNamesCasing\bin\Debug\_05.ChangeTownNamesCasing.exe.config
+C:\Users\v\Documents\Visual Studio 2015\Projects\IntroductionToDb\05. ChangeTownNamesCasing\bin\Debug\_05.ChangeTownNamesCasing.exe
+C:\Users\v\Documents\Visual Studio 2015\Projects\IntroductionToDb\05. ChangeTownNamesCasing\bin\Debug\_05.ChangeTownNamesCasing.pdb
+C:\Users\v\Documents\Visual Studio 2015\Projects\IntroductionToDb\05. ChangeTownNamesCasing\obj\Debug\_05.ChangeTownNamesCasing.exe
+C:\Users\v\Documents\Visual Studio 2015\Projects\IntroductionToDb\05. ChangeTownNamesCasing\obj\Debug\_05.ChangeTownNamesCasing.pdb
+C:\Users\v\Documents\Visual Studio 2015\Projects\IntroductionToDb\05. ChangeTownNamesCasing\obj\Debug\05. ChangeTownNamesCasing.csprojResolveAssemblyReference.cache
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\IntroductionToDb\05. ChangeTownNamesCasing\bin\Debug\_05.ChangeTownNamesCasing.exe.config
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\IntroductionToDb\05. ChangeTownNamesCasing\obj\Debug\_05.ChangeTownNamesCasing.exe
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\IntroductionToDb\05. ChangeTownNamesCasing\obj\Debug\_05.ChangeTownNamesCasing.pdb

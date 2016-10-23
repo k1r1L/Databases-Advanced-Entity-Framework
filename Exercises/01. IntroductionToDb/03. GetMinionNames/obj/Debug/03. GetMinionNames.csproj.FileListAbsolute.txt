@@ -1,0 +1,6 @@
+C:\Users\v\Documents\Visual Studio 2015\Projects\IntroductionToDb\03. GetMinionNames\bin\Debug\_03.GetMinionNames.exe.config
+C:\Users\v\Documents\Visual Studio 2015\Projects\IntroductionToDb\03. GetMinionNames\bin\Debug\_03.GetMinionNames.exe
+C:\Users\v\Documents\Visual Studio 2015\Projects\IntroductionToDb\03. GetMinionNames\bin\Debug\_03.GetMinionNames.pdb
+C:\Users\v\Documents\Visual Studio 2015\Projects\IntroductionToDb\03. GetMinionNames\obj\Debug\03. GetMinionNames.csprojResolveAssemblyReference.cache
+C:\Users\v\Documents\Visual Studio 2015\Projects\IntroductionToDb\03. GetMinionNames\obj\Debug\_03.GetMinionNames.exe
+C:\Users\v\Documents\Visual Studio 2015\Projects\IntroductionToDb\03. GetMinionNames\obj\Debug\_03.GetMinionNames.pdb

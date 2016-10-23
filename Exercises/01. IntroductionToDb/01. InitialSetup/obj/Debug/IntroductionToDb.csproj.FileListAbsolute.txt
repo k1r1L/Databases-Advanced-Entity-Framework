@@ -1,0 +1,6 @@
+C:\Users\v\Documents\Visual Studio 2015\Projects\IntroductionToDb\IntroductionToDb\bin\Debug\IntroductionToDb.exe.config
+C:\Users\v\Documents\Visual Studio 2015\Projects\IntroductionToDb\IntroductionToDb\bin\Debug\IntroductionToDb.exe
+C:\Users\v\Documents\Visual Studio 2015\Projects\IntroductionToDb\IntroductionToDb\bin\Debug\IntroductionToDb.pdb
+C:\Users\v\Documents\Visual Studio 2015\Projects\IntroductionToDb\IntroductionToDb\obj\Debug\IntroductionToDb.csprojResolveAssemblyReference.cache
+C:\Users\v\Documents\Visual Studio 2015\Projects\IntroductionToDb\IntroductionToDb\obj\Debug\IntroductionToDb.exe
+C:\Users\v\Documents\Visual Studio 2015\Projects\IntroductionToDb\IntroductionToDb\obj\Debug\IntroductionToDb.pdb
