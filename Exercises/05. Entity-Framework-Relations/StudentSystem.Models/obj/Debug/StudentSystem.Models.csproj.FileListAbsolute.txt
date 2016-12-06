@@ -1,0 +1,5 @@
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\Entity-Framework-Relations\StudentSystem.Models\bin\Debug\StudentSystem.Models.dll
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\Entity-Framework-Relations\StudentSystem.Models\bin\Debug\StudentSystem.Models.pdb
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\Entity-Framework-Relations\StudentSystem.Models\obj\Debug\StudentSystem.Models.csprojResolveAssemblyReference.cache
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\Entity-Framework-Relations\StudentSystem.Models\obj\Debug\StudentSystem.Models.dll
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\Entity-Framework-Relations\StudentSystem.Models\obj\Debug\StudentSystem.Models.pdb

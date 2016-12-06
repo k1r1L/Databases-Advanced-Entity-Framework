@@ -1,0 +1,15 @@
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\Entity-Framework-Relations\BankSystem.Data\bin\Debug\BankSystem.Data.dll.config
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\Entity-Framework-Relations\BankSystem.Data\bin\Debug\BankSystem.Data.dll
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\Entity-Framework-Relations\BankSystem.Data\bin\Debug\BankSystem.Data.pdb
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\Entity-Framework-Relations\BankSystem.Data\bin\Debug\BankSystem.Models.dll
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\Entity-Framework-Relations\BankSystem.Data\bin\Debug\EntityFramework.dll
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\Entity-Framework-Relations\BankSystem.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\Entity-Framework-Relations\BankSystem.Data\bin\Debug\BankSystem.Models.pdb
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\Entity-Framework-Relations\BankSystem.Data\bin\Debug\EntityFramework.xml
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\Entity-Framework-Relations\BankSystem.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\Entity-Framework-Relations\BankSystem.Data\obj\Debug\BankSystem.Data.csprojResolveAssemblyReference.cache
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\Entity-Framework-Relations\BankSystem.Data\obj\Debug\BankSystem.Data.Migrations.InitialCreate.resources
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\Entity-Framework-Relations\BankSystem.Data\obj\Debug\BankSystem.Data.Migrations.UserModel.resources
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\Entity-Framework-Relations\BankSystem.Data\obj\Debug\BankSystem.Data.csproj.GenerateResource.Cache
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\Entity-Framework-Relations\BankSystem.Data\obj\Debug\BankSystem.Data.dll
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\Entity-Framework-Relations\BankSystem.Data\obj\Debug\BankSystem.Data.pdb

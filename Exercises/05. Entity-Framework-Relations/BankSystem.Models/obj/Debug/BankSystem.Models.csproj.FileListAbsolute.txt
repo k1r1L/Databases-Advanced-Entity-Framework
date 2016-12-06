@@ -1,0 +1,5 @@
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\Entity-Framework-Relations\BankSystem.Models\bin\Debug\BankSystem.Models.dll
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\Entity-Framework-Relations\BankSystem.Models\bin\Debug\BankSystem.Models.pdb
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\Entity-Framework-Relations\BankSystem.Models\obj\Debug\BankSystem.Models.csprojResolveAssemblyReference.cache
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\Entity-Framework-Relations\BankSystem.Models\obj\Debug\BankSystem.Models.dll
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\Entity-Framework-Relations\BankSystem.Models\obj\Debug\BankSystem.Models.pdb

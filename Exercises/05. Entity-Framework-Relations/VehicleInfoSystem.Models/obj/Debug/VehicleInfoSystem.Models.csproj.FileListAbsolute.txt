@@ -1,0 +1,5 @@
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\Entity-Framework-Relations\VehicleInfoSystem.Models\bin\Debug\VehicleInfoSystem.Models.dll
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\Entity-Framework-Relations\VehicleInfoSystem.Models\bin\Debug\VehicleInfoSystem.Models.pdb
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\Entity-Framework-Relations\VehicleInfoSystem.Models\obj\Debug\VehicleInfoSystem.Models.csprojResolveAssemblyReference.cache
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\Entity-Framework-Relations\VehicleInfoSystem.Models\obj\Debug\VehicleInfoSystem.Models.dll
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\Entity-Framework-Relations\VehicleInfoSystem.Models\obj\Debug\VehicleInfoSystem.Models.pdb

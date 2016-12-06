@@ -1,0 +1,14 @@
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\Entity-Framework-Relations\BillingPaymentSystem.Client\bin\Debug\BillingPaymentSystem.Client.exe.config
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\Entity-Framework-Relations\BillingPaymentSystem.Client\bin\Debug\BillingPaymentSystem.Client.exe
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\Entity-Framework-Relations\BillingPaymentSystem.Client\bin\Debug\BillingPaymentSystem.Client.pdb
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\Entity-Framework-Relations\BillingPaymentSystem.Client\bin\Debug\BillPaymentSystem.Data.dll
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\Entity-Framework-Relations\BillingPaymentSystem.Client\bin\Debug\BillPaymentSystem.Models.dll
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\Entity-Framework-Relations\BillingPaymentSystem.Client\bin\Debug\EntityFramework.dll
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\Entity-Framework-Relations\BillingPaymentSystem.Client\bin\Debug\EntityFramework.SqlServer.dll
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\Entity-Framework-Relations\BillingPaymentSystem.Client\bin\Debug\BillPaymentSystem.Data.pdb
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\Entity-Framework-Relations\BillingPaymentSystem.Client\bin\Debug\BillPaymentSystem.Models.pdb
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\Entity-Framework-Relations\BillingPaymentSystem.Client\bin\Debug\EntityFramework.xml
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\Entity-Framework-Relations\BillingPaymentSystem.Client\bin\Debug\EntityFramework.SqlServer.xml
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\Entity-Framework-Relations\BillingPaymentSystem.Client\obj\Debug\BillingPaymentSystem.Client.csprojResolveAssemblyReference.cache
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\Entity-Framework-Relations\BillingPaymentSystem.Client\obj\Debug\BillingPaymentSystem.Client.exe
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\Entity-Framework-Relations\BillingPaymentSystem.Client\obj\Debug\BillingPaymentSystem.Client.pdb

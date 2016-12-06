@@ -1,0 +1,5 @@
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\Entity-Framework-Relations\FootballBookmarkerSystem.Models\bin\Debug\FootballBookmarkerSystem.Models.dll
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\Entity-Framework-Relations\FootballBookmarkerSystem.Models\bin\Debug\FootballBookmarkerSystem.Models.pdb
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\Entity-Framework-Relations\FootballBookmarkerSystem.Models\obj\Debug\FootballBookmarkerSystem.Models.csprojResolveAssemblyReference.cache
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\Entity-Framework-Relations\FootballBookmarkerSystem.Models\obj\Debug\FootballBookmarkerSystem.Models.dll
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\Entity-Framework-Relations\FootballBookmarkerSystem.Models\obj\Debug\FootballBookmarkerSystem.Models.pdb

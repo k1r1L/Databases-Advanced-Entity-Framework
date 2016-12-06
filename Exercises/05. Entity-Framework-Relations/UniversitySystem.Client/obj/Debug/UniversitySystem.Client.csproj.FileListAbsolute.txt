@@ -1,0 +1,16 @@
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\Entity-Framework-Relations\UniversitySystem.Client\bin\Debug\UniversitySystem.Client.exe.config
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\Entity-Framework-Relations\UniversitySystem.Client\bin\Debug\UniversitySystem.Client.exe
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\Entity-Framework-Relations\UniversitySystem.Client\bin\Debug\UniversitySystem.Client.pdb
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\Entity-Framework-Relations\UniversitySystem.Client\bin\Debug\EntityFramework.dll
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\Entity-Framework-Relations\UniversitySystem.Client\bin\Debug\EntityFramework.SqlServer.dll
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\Entity-Framework-Relations\UniversitySystem.Client\bin\Debug\UniversitySystem.Data.dll
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\Entity-Framework-Relations\UniversitySystem.Client\bin\Debug\UniversitySystem.Models.dll
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\Entity-Framework-Relations\UniversitySystem.Client\bin\Debug\UniversitySystem.Data.pdb
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\Entity-Framework-Relations\UniversitySystem.Client\bin\Debug\UniversitySystem.Models.pdb
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\Entity-Framework-Relations\UniversitySystem.Client\bin\Debug\EntityFramework.xml
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\Entity-Framework-Relations\UniversitySystem.Client\bin\Debug\EntityFramework.SqlServer.xml
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\Entity-Framework-Relations\UniversitySystem.Client\obj\Debug\UniversitySystem.Client.csprojResolveAssemblyReference.cache
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\Entity-Framework-Relations\UniversitySystem.Client\obj\Debug\UniversitySystem.Client.exe
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\Entity-Framework-Relations\UniversitySystem.Client\obj\Debug\UniversitySystem.Client.pdb
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\Entity-Framework-Relations\UniversitySystem.Client\bin\Debug\BillPaymentSystem.Models.dll
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\Entity-Framework-Relations\UniversitySystem.Client\bin\Debug\BillPaymentSystem.Models.pdb

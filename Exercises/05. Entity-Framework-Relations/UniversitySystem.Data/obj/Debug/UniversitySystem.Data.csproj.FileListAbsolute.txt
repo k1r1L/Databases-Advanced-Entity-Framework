@@ -1,0 +1,12 @@
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\Entity-Framework-Relations\UniversitySystem.Data\bin\Debug\UniversitySystem.Data.dll.config
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\Entity-Framework-Relations\UniversitySystem.Data\bin\Debug\UniversitySystem.Data.dll
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\Entity-Framework-Relations\UniversitySystem.Data\bin\Debug\UniversitySystem.Data.pdb
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\Entity-Framework-Relations\UniversitySystem.Data\bin\Debug\EntityFramework.dll
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\Entity-Framework-Relations\UniversitySystem.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\Entity-Framework-Relations\UniversitySystem.Data\bin\Debug\UniversitySystem.Models.dll
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\Entity-Framework-Relations\UniversitySystem.Data\bin\Debug\UniversitySystem.Models.pdb
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\Entity-Framework-Relations\UniversitySystem.Data\bin\Debug\EntityFramework.xml
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\Entity-Framework-Relations\UniversitySystem.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\Entity-Framework-Relations\UniversitySystem.Data\obj\Debug\UniversitySystem.Data.csprojResolveAssemblyReference.cache
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\Entity-Framework-Relations\UniversitySystem.Data\obj\Debug\UniversitySystem.Data.dll
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\Entity-Framework-Relations\UniversitySystem.Data\obj\Debug\UniversitySystem.Data.pdb

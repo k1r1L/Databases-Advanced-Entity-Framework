@@ -1,0 +1,14 @@
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\Entity-Framework-Relations\FootballBookmarkerSystem.Client\bin\Debug\FootballBookmarkerSystem.Client.exe.config
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\Entity-Framework-Relations\FootballBookmarkerSystem.Client\bin\Debug\FootballBookmarkerSystem.Client.exe
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\Entity-Framework-Relations\FootballBookmarkerSystem.Client\bin\Debug\FootballBookmarkerSystem.Client.pdb
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\Entity-Framework-Relations\FootballBookmarkerSystem.Client\bin\Debug\EntityFramework.dll
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\Entity-Framework-Relations\FootballBookmarkerSystem.Client\bin\Debug\EntityFramework.SqlServer.dll
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\Entity-Framework-Relations\FootballBookmarkerSystem.Client\bin\Debug\FootballBookmarkerSystem.Data.dll
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\Entity-Framework-Relations\FootballBookmarkerSystem.Client\bin\Debug\FootballBookmarkerSystem.Models.dll
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\Entity-Framework-Relations\FootballBookmarkerSystem.Client\bin\Debug\FootballBookmarkerSystem.Data.pdb
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\Entity-Framework-Relations\FootballBookmarkerSystem.Client\bin\Debug\FootballBookmarkerSystem.Models.pdb
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\Entity-Framework-Relations\FootballBookmarkerSystem.Client\bin\Debug\EntityFramework.xml
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\Entity-Framework-Relations\FootballBookmarkerSystem.Client\bin\Debug\EntityFramework.SqlServer.xml
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\Entity-Framework-Relations\FootballBookmarkerSystem.Client\obj\Debug\FootballBookmarkerSystem.Client.csprojResolveAssemblyReference.cache
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\Entity-Framework-Relations\FootballBookmarkerSystem.Client\obj\Debug\FootballBookmarkerSystem.Client.exe
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\Entity-Framework-Relations\FootballBookmarkerSystem.Client\obj\Debug\FootballBookmarkerSystem.Client.pdb
