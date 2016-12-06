@@ -1,0 +1,9 @@
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\Advanced-Querying-Performance-Exercises\02. SoftUniDatabase\bin\Debug\_02.SoftUniDatabase.exe.config
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\Advanced-Querying-Performance-Exercises\02. SoftUniDatabase\bin\Debug\_02.SoftUniDatabase.exe
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\Advanced-Querying-Performance-Exercises\02. SoftUniDatabase\bin\Debug\_02.SoftUniDatabase.pdb
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\Advanced-Querying-Performance-Exercises\02. SoftUniDatabase\bin\Debug\EntityFramework.dll
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\Advanced-Querying-Performance-Exercises\02. SoftUniDatabase\bin\Debug\EntityFramework.SqlServer.dll
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\Advanced-Querying-Performance-Exercises\02. SoftUniDatabase\bin\Debug\EntityFramework.xml
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\Advanced-Querying-Performance-Exercises\02. SoftUniDatabase\bin\Debug\EntityFramework.SqlServer.xml
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\Advanced-Querying-Performance-Exercises\02. SoftUniDatabase\obj\Debug\_02.SoftUniDatabase.exe
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\Advanced-Querying-Performance-Exercises\02. SoftUniDatabase\obj\Debug\_02.SoftUniDatabase.pdb

@@ -1,0 +1,10 @@
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\Advanced-Querying-Exercises\02. SoftuniDatabase\bin\Debug\_02.SoftuniDatabase.exe.config
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\Advanced-Querying-Exercises\02. SoftuniDatabase\bin\Debug\_02.SoftuniDatabase.exe
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\Advanced-Querying-Exercises\02. SoftuniDatabase\bin\Debug\_02.SoftuniDatabase.pdb
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\Advanced-Querying-Exercises\02. SoftuniDatabase\obj\Debug\02. SoftuniDatabase.csprojResolveAssemblyReference.cache
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\Advanced-Querying-Exercises\02. SoftuniDatabase\obj\Debug\_02.SoftuniDatabase.exe
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\Advanced-Querying-Exercises\02. SoftuniDatabase\obj\Debug\_02.SoftuniDatabase.pdb
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\Advanced-Querying-Exercises\02. SoftuniDatabase\bin\Debug\EntityFramework.dll
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\Advanced-Querying-Exercises\02. SoftuniDatabase\bin\Debug\EntityFramework.SqlServer.dll
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\Advanced-Querying-Exercises\02. SoftuniDatabase\bin\Debug\EntityFramework.xml
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\Advanced-Querying-Exercises\02. SoftuniDatabase\bin\Debug\EntityFramework.SqlServer.xml

@@ -1,0 +1,10 @@
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\Advanced-Querying-Exercises\03. GringottsDatabase\bin\Debug\_03.GringottsDatabase.exe.config
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\Advanced-Querying-Exercises\03. GringottsDatabase\bin\Debug\_03.GringottsDatabase.exe
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\Advanced-Querying-Exercises\03. GringottsDatabase\bin\Debug\_03.GringottsDatabase.pdb
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\Advanced-Querying-Exercises\03. GringottsDatabase\bin\Debug\EntityFramework.dll
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\Advanced-Querying-Exercises\03. GringottsDatabase\bin\Debug\EntityFramework.SqlServer.dll
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\Advanced-Querying-Exercises\03. GringottsDatabase\bin\Debug\EntityFramework.xml
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\Advanced-Querying-Exercises\03. GringottsDatabase\bin\Debug\EntityFramework.SqlServer.xml
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\Advanced-Querying-Exercises\03. GringottsDatabase\obj\Debug\03. GringottsDatabase.csprojResolveAssemblyReference.cache
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\Advanced-Querying-Exercises\03. GringottsDatabase\obj\Debug\_03.GringottsDatabase.exe
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\Advanced-Querying-Exercises\03. GringottsDatabase\obj\Debug\_03.GringottsDatabase.pdb

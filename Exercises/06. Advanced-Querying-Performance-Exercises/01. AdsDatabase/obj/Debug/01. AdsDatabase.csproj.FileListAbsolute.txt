@@ -1,0 +1,10 @@
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\Advanced-Querying-Performance-Exercises\01. AdsDatabase\bin\Debug\_01.AdsDatabase.exe.config
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\Advanced-Querying-Performance-Exercises\01. AdsDatabase\bin\Debug\_01.AdsDatabase.exe
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\Advanced-Querying-Performance-Exercises\01. AdsDatabase\bin\Debug\_01.AdsDatabase.pdb
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\Advanced-Querying-Performance-Exercises\01. AdsDatabase\bin\Debug\EntityFramework.dll
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\Advanced-Querying-Performance-Exercises\01. AdsDatabase\bin\Debug\EntityFramework.SqlServer.dll
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\Advanced-Querying-Performance-Exercises\01. AdsDatabase\bin\Debug\EntityFramework.xml
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\Advanced-Querying-Performance-Exercises\01. AdsDatabase\bin\Debug\EntityFramework.SqlServer.xml
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\Advanced-Querying-Performance-Exercises\01. AdsDatabase\obj\Debug\01. AdsDatabase.csprojResolveAssemblyReference.cache
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\Advanced-Querying-Performance-Exercises\01. AdsDatabase\obj\Debug\_01.AdsDatabase.exe
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\Advanced-Querying-Performance-Exercises\01. AdsDatabase\obj\Debug\_01.AdsDatabase.pdb
