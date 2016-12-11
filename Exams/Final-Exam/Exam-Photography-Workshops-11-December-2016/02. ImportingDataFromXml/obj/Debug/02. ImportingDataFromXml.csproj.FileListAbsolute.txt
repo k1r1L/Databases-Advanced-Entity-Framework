@@ -1,0 +1,14 @@
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\FinalExam\Exam-Photography-Workshops\02. ImportingDataFromXml\bin\Debug\_02.ImportingDataFromXml.exe.config
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\FinalExam\Exam-Photography-Workshops\02. ImportingDataFromXml\bin\Debug\_02.ImportingDataFromXml.exe
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\FinalExam\Exam-Photography-Workshops\02. ImportingDataFromXml\bin\Debug\_02.ImportingDataFromXml.pdb
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\FinalExam\Exam-Photography-Workshops\02. ImportingDataFromXml\bin\Debug\EntityFramework.dll
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\FinalExam\Exam-Photography-Workshops\02. ImportingDataFromXml\bin\Debug\EntityFramework.SqlServer.dll
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\FinalExam\Exam-Photography-Workshops\02. ImportingDataFromXml\bin\Debug\PhotographyWorkshops.Data.dll
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\FinalExam\Exam-Photography-Workshops\02. ImportingDataFromXml\bin\Debug\PhotographyWorkshops.Models.dll
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\FinalExam\Exam-Photography-Workshops\02. ImportingDataFromXml\bin\Debug\PhotographyWorkshops.Data.pdb
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\FinalExam\Exam-Photography-Workshops\02. ImportingDataFromXml\bin\Debug\PhotographyWorkshops.Models.pdb
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\FinalExam\Exam-Photography-Workshops\02. ImportingDataFromXml\bin\Debug\EntityFramework.xml
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\FinalExam\Exam-Photography-Workshops\02. ImportingDataFromXml\bin\Debug\EntityFramework.SqlServer.xml
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\FinalExam\Exam-Photography-Workshops\02. ImportingDataFromXml\obj\Debug\02. ImportingDataFromXml.csprojResolveAssemblyReference.cache
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\FinalExam\Exam-Photography-Workshops\02. ImportingDataFromXml\obj\Debug\_02.ImportingDataFromXml.exe
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\FinalExam\Exam-Photography-Workshops\02. ImportingDataFromXml\obj\Debug\_02.ImportingDataFromXml.pdb

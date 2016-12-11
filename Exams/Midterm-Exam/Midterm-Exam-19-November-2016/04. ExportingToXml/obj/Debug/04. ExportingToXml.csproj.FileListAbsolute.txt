@@ -1,0 +1,1 @@
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Midterm-Exam\Midterm-Exam-19-November-2016\04. ExportingToXml\bin\Debug\_04.ExportingToXml.exe.config

@@ -1,0 +1,1 @@
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Midterm-Exam\Midterm-Exam-19-November-2016\MassDefect.Client\bin\Debug\MassDefect.Client.exe.config

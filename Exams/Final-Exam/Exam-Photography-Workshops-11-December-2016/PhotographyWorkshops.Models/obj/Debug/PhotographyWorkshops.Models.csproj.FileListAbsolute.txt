@@ -1,0 +1,5 @@
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\FinalExam\Exam-Photography-Workshops\PhotographyWorkshops.Models\bin\Debug\PhotographyWorkshops.Models.dll
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\FinalExam\Exam-Photography-Workshops\PhotographyWorkshops.Models\bin\Debug\PhotographyWorkshops.Models.pdb
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\FinalExam\Exam-Photography-Workshops\PhotographyWorkshops.Models\obj\Debug\PhotographyWorkshops.Models.csprojResolveAssemblyReference.cache
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\FinalExam\Exam-Photography-Workshops\PhotographyWorkshops.Models\obj\Debug\PhotographyWorkshops.Models.dll
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\FinalExam\Exam-Photography-Workshops\PhotographyWorkshops.Models\obj\Debug\PhotographyWorkshops.Models.pdb

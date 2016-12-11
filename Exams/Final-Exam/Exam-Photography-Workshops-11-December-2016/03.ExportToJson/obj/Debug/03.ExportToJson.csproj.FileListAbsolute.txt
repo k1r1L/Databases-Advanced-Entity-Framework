@@ -1,0 +1,16 @@
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\FinalExam\Exam-Photography-Workshops\03.ExportToJson\bin\Debug\03.ExportToJson.exe.config
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\FinalExam\Exam-Photography-Workshops\03.ExportToJson\bin\Debug\03.ExportToJson.exe
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\FinalExam\Exam-Photography-Workshops\03.ExportToJson\bin\Debug\03.ExportToJson.pdb
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\FinalExam\Exam-Photography-Workshops\03.ExportToJson\bin\Debug\EntityFramework.dll
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\FinalExam\Exam-Photography-Workshops\03.ExportToJson\bin\Debug\EntityFramework.SqlServer.dll
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\FinalExam\Exam-Photography-Workshops\03.ExportToJson\bin\Debug\Newtonsoft.Json.dll
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\FinalExam\Exam-Photography-Workshops\03.ExportToJson\bin\Debug\PhotographyWorkshops.Data.dll
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\FinalExam\Exam-Photography-Workshops\03.ExportToJson\bin\Debug\PhotographyWorkshops.Models.dll
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\FinalExam\Exam-Photography-Workshops\03.ExportToJson\bin\Debug\PhotographyWorkshops.Data.pdb
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\FinalExam\Exam-Photography-Workshops\03.ExportToJson\bin\Debug\PhotographyWorkshops.Models.pdb
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\FinalExam\Exam-Photography-Workshops\03.ExportToJson\bin\Debug\EntityFramework.xml
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\FinalExam\Exam-Photography-Workshops\03.ExportToJson\bin\Debug\EntityFramework.SqlServer.xml
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\FinalExam\Exam-Photography-Workshops\03.ExportToJson\bin\Debug\Newtonsoft.Json.xml
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\FinalExam\Exam-Photography-Workshops\03.ExportToJson\obj\Debug\03.ExportToJson.csprojResolveAssemblyReference.cache
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\FinalExam\Exam-Photography-Workshops\03.ExportToJson\obj\Debug\03.ExportToJson.exe
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\FinalExam\Exam-Photography-Workshops\03.ExportToJson\obj\Debug\03.ExportToJson.pdb

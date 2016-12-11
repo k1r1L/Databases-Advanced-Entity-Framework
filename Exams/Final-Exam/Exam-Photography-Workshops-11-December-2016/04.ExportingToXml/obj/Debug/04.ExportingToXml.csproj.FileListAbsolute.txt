@@ -1,0 +1,13 @@
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\FinalExam\Exam-Photography-Workshops\04.ExportingToXml\bin\Debug\04.ExportingToXml.exe.config
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\FinalExam\Exam-Photography-Workshops\04.ExportingToXml\bin\Debug\04.ExportingToXml.exe
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\FinalExam\Exam-Photography-Workshops\04.ExportingToXml\bin\Debug\04.ExportingToXml.pdb
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\FinalExam\Exam-Photography-Workshops\04.ExportingToXml\bin\Debug\EntityFramework.dll
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\FinalExam\Exam-Photography-Workshops\04.ExportingToXml\bin\Debug\EntityFramework.SqlServer.dll
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\FinalExam\Exam-Photography-Workshops\04.ExportingToXml\bin\Debug\PhotographyWorkshops.Data.dll
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\FinalExam\Exam-Photography-Workshops\04.ExportingToXml\bin\Debug\PhotographyWorkshops.Models.dll
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\FinalExam\Exam-Photography-Workshops\04.ExportingToXml\bin\Debug\PhotographyWorkshops.Data.pdb
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\FinalExam\Exam-Photography-Workshops\04.ExportingToXml\bin\Debug\PhotographyWorkshops.Models.pdb
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\FinalExam\Exam-Photography-Workshops\04.ExportingToXml\bin\Debug\EntityFramework.xml
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\FinalExam\Exam-Photography-Workshops\04.ExportingToXml\bin\Debug\EntityFramework.SqlServer.xml
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\FinalExam\Exam-Photography-Workshops\04.ExportingToXml\obj\Debug\04.ExportingToXml.exe
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\FinalExam\Exam-Photography-Workshops\04.ExportingToXml\obj\Debug\04.ExportingToXml.pdb

@@ -1,0 +1,236 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<locations>
+  <location name="Sofia">
+    <workshop name="Street Photography" total-profit="280.000">
+      <participants count="5">
+        <participant first-name="Amparo" last-name="Goers" />
+        <participant first-name="Leon" last-name="Recio" />
+        <participant first-name="Alica" last-name="Lacher" />
+        <participant first-name="Bunny" last-name="Nolan" />
+        <participant first-name="Lyle" last-name="Longworth" />
+      </participants>
+    </workshop>
+  </location>
+  <location name="Europe">
+    <workshop name="Norway's Trains and Fjords" total-profit="13440.000">
+      <participants count="42">
+        <participant first-name="Opal" last-name="Blue" />
+        <participant first-name="Joshua" last-name="Nolley" />
+        <participant first-name="Meggan" last-name="Danzy" />
+        <participant first-name="Stephaine" last-name="Smidt" />
+        <participant first-name="Jamie" last-name="Mauger" />
+        <participant first-name="Antonietta" last-name="Reza" />
+        <participant first-name="Stephnie" last-name="Arciniega" />
+        <participant first-name="Melodee" last-name="Shepler" />
+        <participant first-name="Gaston" last-name="Mclees" />
+        <participant first-name="Rosalba" last-name="Hane" />
+        <participant first-name="Freeda" last-name="Casimir" />
+        <participant first-name="Dante" last-name="Ketter" />
+        <participant first-name="Lajuana" last-name="Mcclean" />
+        <participant first-name="Jenna" last-name="Baize" />
+        <participant first-name="Carolee" last-name="Kuder" />
+        <participant first-name="Annabelle" last-name="Nimmo" />
+        <participant first-name="Mckenzie" last-name="Monteiro" />
+        <participant first-name="Freeman" last-name="Dalby" />
+        <participant first-name="Krystin" last-name="Lindstedt" />
+        <participant first-name="Shiloh" last-name="Heckert" />
+        <participant first-name="Dani" last-name="Vanness" />
+        <participant first-name="Azucena" last-name="Stclaire" />
+        <participant first-name="Tu" last-name="Aslinger" />
+        <participant first-name="Talitha" last-name="Jong" />
+        <participant first-name="Danny" last-name="Nethery" />
+        <participant first-name="Wilfredo" last-name="Finnegan" />
+        <participant first-name="Allyson" last-name="Gayman" />
+        <participant first-name="Joane" last-name="Claflin" />
+        <participant first-name="Betsey" last-name="Oconner" />
+        <participant first-name="Cheri" last-name="Regina" />
+        <participant first-name="Tashia" last-name="Lunsford" />
+        <participant first-name="Johnathan" last-name="Vazguez" />
+        <participant first-name="Rita" last-name="Bucklew" />
+        <participant first-name="Adria" last-name="Mcquire" />
+        <participant first-name="Romona" last-name="Griffin" />
+        <participant first-name="Aimee" last-name="Ochoa" />
+        <participant first-name="China" last-name="Horsey" />
+        <participant first-name="Lucina" last-name="Jesse" />
+        <participant first-name="Shannon" last-name="Clendenin" />
+        <participant first-name="Federico" last-name="Arceo" />
+        <participant first-name="Heide" last-name="Plemmons" />
+        <participant first-name="Deetta" last-name="Beausoleil" />
+      </participants>
+    </workshop>
+  </location>
+  <location name="Asia">
+    <workshop name="Trans-Siberian Rail Odyssey" total-profit="446400.000">
+      <participants count="31">
+        <participant first-name="Opal" last-name="Blue" />
+        <participant first-name="Meggan" last-name="Danzy" />
+        <participant first-name="Fidel" last-name="Sato" />
+        <participant first-name="Dani" last-name="Vanness" />
+        <participant first-name="Azucena" last-name="Stclaire" />
+        <participant first-name="Tu" last-name="Aslinger" />
+        <participant first-name="Talitha" last-name="Jong" />
+        <participant first-name="Danny" last-name="Nethery" />
+        <participant first-name="Wilfredo" last-name="Finnegan" />
+        <participant first-name="Allyson" last-name="Gayman" />
+        <participant first-name="Joane" last-name="Claflin" />
+        <participant first-name="Cheri" last-name="Regina" />
+        <participant first-name="Ola" last-name="Straw" />
+        <participant first-name="Tashia" last-name="Lunsford" />
+        <participant first-name="Johnathan" last-name="Vazguez" />
+        <participant first-name="Dinah" last-name="Mckenney" />
+        <participant first-name="Rita" last-name="Bucklew" />
+        <participant first-name="Adria" last-name="Mcquire" />
+        <participant first-name="Romona" last-name="Griffin" />
+        <participant first-name="Leontine" last-name="Breitenbach" />
+        <participant first-name="Joan" last-name="Fife" />
+        <participant first-name="Denisha" last-name="Gatton" />
+        <participant first-name="Luciano" last-name="Brisker" />
+        <participant first-name="Valery" last-name="Pickens" />
+        <participant first-name="Gena" last-name="Gering" />
+        <participant first-name="Leota" last-name="Eastep" />
+        <participant first-name="Beverley" last-name="Kirby" />
+        <participant first-name="Margarita" last-name="Sollers" />
+        <participant first-name="Benjamin" last-name="Lindblad" />
+        <participant first-name="Deetta" last-name="Beausoleil" />
+        <participant first-name="Helena" last-name="Cahn" />
+      </participants>
+    </workshop>
+  </location>
+  <location name="North America">
+    <workshop name="Canadian Rockies by Rail and Trail" total-profit="100038.400">
+      <participants count="29">
+        <participant first-name="Opal" last-name="Blue" />
+        <participant first-name="Joshua" last-name="Nolley" />
+        <participant first-name="Meggan" last-name="Danzy" />
+        <participant first-name="Jamie" last-name="Mauger" />
+        <participant first-name="Antonietta" last-name="Reza" />
+        <participant first-name="Stephnie" last-name="Arciniega" />
+        <participant first-name="Melodee" last-name="Shepler" />
+        <participant first-name="Gaston" last-name="Mclees" />
+        <participant first-name="Rosalba" last-name="Hane" />
+        <participant first-name="Freeda" last-name="Casimir" />
+        <participant first-name="Dante" last-name="Ketter" />
+        <participant first-name="Lajuana" last-name="Mcclean" />
+        <participant first-name="Jenna" last-name="Baize" />
+        <participant first-name="Carolee" last-name="Kuder" />
+        <participant first-name="Annabelle" last-name="Nimmo" />
+        <participant first-name="Mckenzie" last-name="Monteiro" />
+        <participant first-name="Freeman" last-name="Dalby" />
+        <participant first-name="Harley" last-name="Gerardo" />
+        <participant first-name="Rosalie" last-name="Ragsdale" />
+        <participant first-name="Beula" last-name="Zendejas" />
+        <participant first-name="Tu" last-name="Aslinger" />
+        <participant first-name="Talitha" last-name="Jong" />
+        <participant first-name="Danny" last-name="Nethery" />
+        <participant first-name="Wilfredo" last-name="Finnegan" />
+        <participant first-name="Aurora" last-name="Broadhurst" />
+        <participant first-name="Cheri" last-name="Regina" />
+        <participant first-name="Ola" last-name="Straw" />
+        <participant first-name="Tashia" last-name="Lunsford" />
+        <participant first-name="Johnathan" last-name="Vazguez" />
+      </participants>
+    </workshop>
+  </location>
+  <location name="South America">
+    <workshop name="Peru: Amazon, Machu Picchu, and Lake Titicaca" total-profit="782056.000">
+      <participants count="22">
+        <participant first-name="Antonietta" last-name="Reza" />
+        <participant first-name="Jenna" last-name="Baize" />
+        <participant first-name="Carolee" last-name="Kuder" />
+        <participant first-name="Annabelle" last-name="Nimmo" />
+        <participant first-name="Mckenzie" last-name="Monteiro" />
+        <participant first-name="Allyson" last-name="Gayman" />
+        <participant first-name="Joane" last-name="Claflin" />
+        <participant first-name="Betsey" last-name="Oconner" />
+        <participant first-name="Aurora" last-name="Broadhurst" />
+        <participant first-name="Cheri" last-name="Regina" />
+        <participant first-name="Ola" last-name="Straw" />
+        <participant first-name="Tashia" last-name="Lunsford" />
+        <participant first-name="Johnathan" last-name="Vazguez" />
+        <participant first-name="Dinah" last-name="Mckenney" />
+        <participant first-name="Rita" last-name="Bucklew" />
+        <participant first-name="Adria" last-name="Mcquire" />
+        <participant first-name="Nam" last-name="Dinkins" />
+        <participant first-name="Cristopher" last-name="Brinkerhoff" />
+        <participant first-name="Kirstin" last-name="Whidbee" />
+        <participant first-name="Sharee" last-name="Rothchild" />
+        <participant first-name="Shon" last-name="Bjerke" />
+        <participant first-name="Keely" last-name="Futrell" />
+      </participants>
+    </workshop>
+  </location>
+  <location name="Africa">
+    <workshop name="Morocco Photography Expedition" total-profit="31341.600">
+      <participants count="9">
+        <participant first-name="Freeman" last-name="Dalby" />
+        <participant first-name="Krystin" last-name="Lindstedt" />
+        <participant first-name="Shiloh" last-name="Heckert" />
+        <participant first-name="Harley" last-name="Gerardo" />
+        <participant first-name="Rosalie" last-name="Ragsdale" />
+        <participant first-name="Beula" last-name="Zendejas" />
+        <participant first-name="Oma" last-name="Wechsler" />
+        <participant first-name="Jay" last-name="Stanforth" />
+        <participant first-name="Ralph" last-name="Rizer" />
+      </participants>
+    </workshop>
+  </location>
+  <location name="Caribbean">
+    <workshop name="Advanced Photography and Lighting Workshop: Saint Lucia" total-profit="30979.200">
+      <participants count="6">
+        <participant first-name="Nam" last-name="Dinkins" />
+        <participant first-name="Cristopher" last-name="Brinkerhoff" />
+        <participant first-name="Kirstin" last-name="Whidbee" />
+        <participant first-name="Sharee" last-name="Rothchild" />
+        <participant first-name="Shon" last-name="Bjerke" />
+        <participant first-name="Keely" last-name="Futrell" />
+      </participants>
+    </workshop>
+  </location>
+  <location name="Cuba">
+    <workshop name="Cuba and Its People: A Photographic Exploration" total-profit="18788.000">
+      <participants count="11">
+        <participant first-name="Aimee" last-name="Ochoa" />
+        <participant first-name="China" last-name="Horsey" />
+        <participant first-name="Lucina" last-name="Jesse" />
+        <participant first-name="Shannon" last-name="Clendenin" />
+        <participant first-name="Federico" last-name="Arceo" />
+        <participant first-name="Heide" last-name="Plemmons" />
+        <participant first-name="Gena" last-name="Gering" />
+        <participant first-name="Leota" last-name="Eastep" />
+        <participant first-name="Romona" last-name="Kumm" />
+        <participant first-name="Beverley" last-name="Kirby" />
+        <participant first-name="Margarita" last-name="Sollers" />
+      </participants>
+    </workshop>
+  </location>
+  <location name="North Pole">
+    <workshop name="Land of the Polar Bears" total-profit="2361.600">
+      <participants count="24">
+        <participant first-name="Harley" last-name="Gerardo" />
+        <participant first-name="Rosalie" last-name="Ragsdale" />
+        <participant first-name="Beula" last-name="Zendejas" />
+        <participant first-name="Oma" last-name="Wechsler" />
+        <participant first-name="Jay" last-name="Stanforth" />
+        <participant first-name="Ralph" last-name="Rizer" />
+        <participant first-name="Fidel" last-name="Sato" />
+        <participant first-name="Dinah" last-name="Mckenney" />
+        <participant first-name="Rita" last-name="Bucklew" />
+        <participant first-name="Adria" last-name="Mcquire" />
+        <participant first-name="Romona" last-name="Griffin" />
+        <participant first-name="Denisha" last-name="Gatton" />
+        <participant first-name="Luciano" last-name="Brisker" />
+        <participant first-name="Valery" last-name="Pickens" />
+        <participant first-name="Kirstin" last-name="Whidbee" />
+        <participant first-name="Sharee" last-name="Rothchild" />
+        <participant first-name="Shon" last-name="Bjerke" />
+        <participant first-name="Keely" last-name="Futrell" />
+        <participant first-name="Gena" last-name="Gering" />
+        <participant first-name="Leota" last-name="Eastep" />
+        <participant first-name="Romona" last-name="Kumm" />
+        <participant first-name="Beverley" last-name="Kirby" />
+        <participant first-name="Margarita" last-name="Sollers" />
+        <participant first-name="Benjamin" last-name="Lindblad" />
+      </participants>
+    </workshop>
+  </location>
+</locations>
