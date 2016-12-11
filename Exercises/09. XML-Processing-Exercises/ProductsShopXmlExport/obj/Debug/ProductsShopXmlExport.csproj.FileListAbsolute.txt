@@ -1,0 +1,12 @@
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\XML-Processing-Exercises\ProductsShopXmlExport\bin\Debug\ProductsShopXmlExport.exe.config
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\XML-Processing-Exercises\ProductsShopXmlExport\bin\Debug\ProductsShopXmlExport.exe
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\XML-Processing-Exercises\ProductsShopXmlExport\bin\Debug\ProductsShopXmlExport.pdb
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\XML-Processing-Exercises\ProductsShopXmlExport\bin\Debug\EntityFramework.dll
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\XML-Processing-Exercises\ProductsShopXmlExport\bin\Debug\EntityFramework.SqlServer.dll
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\XML-Processing-Exercises\ProductsShopXmlExport\bin\Debug\ProductsShopData.dll
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\XML-Processing-Exercises\ProductsShopXmlExport\bin\Debug\ProductsShopData.pdb
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\XML-Processing-Exercises\ProductsShopXmlExport\bin\Debug\EntityFramework.xml
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\XML-Processing-Exercises\ProductsShopXmlExport\bin\Debug\EntityFramework.SqlServer.xml
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\XML-Processing-Exercises\ProductsShopXmlExport\obj\Debug\ProductsShopXmlExport.csprojResolveAssemblyReference.cache
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\XML-Processing-Exercises\ProductsShopXmlExport\obj\Debug\ProductsShopXmlExport.exe
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\XML-Processing-Exercises\ProductsShopXmlExport\obj\Debug\ProductsShopXmlExport.pdb

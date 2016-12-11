@@ -1,0 +1,16 @@
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\JSON-Processing-Exercises\ProductsShop.Client\bin\Debug\ProductsShop.Client.exe.config
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\JSON-Processing-Exercises\ProductsShop.Client\bin\Debug\ProductsShop.Client.exe
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\JSON-Processing-Exercises\ProductsShop.Client\bin\Debug\ProductsShop.Client.pdb
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\JSON-Processing-Exercises\ProductsShop.Client\bin\Debug\EntityFramework.dll
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\JSON-Processing-Exercises\ProductsShop.Client\bin\Debug\EntityFramework.SqlServer.dll
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\JSON-Processing-Exercises\ProductsShop.Client\bin\Debug\ProductsShop.Data.dll
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\JSON-Processing-Exercises\ProductsShop.Client\bin\Debug\ProductsShop.Models.dll
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\JSON-Processing-Exercises\ProductsShop.Client\bin\Debug\ProductsShop.Data.pdb
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\JSON-Processing-Exercises\ProductsShop.Client\bin\Debug\ProductsShop.Models.pdb
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\JSON-Processing-Exercises\ProductsShop.Client\bin\Debug\EntityFramework.xml
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\JSON-Processing-Exercises\ProductsShop.Client\bin\Debug\EntityFramework.SqlServer.xml
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\JSON-Processing-Exercises\ProductsShop.Client\obj\Debug\ProductsShop.Client.csprojResolveAssemblyReference.cache
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\JSON-Processing-Exercises\ProductsShop.Client\obj\Debug\ProductsShop.Client.exe
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\JSON-Processing-Exercises\ProductsShop.Client\obj\Debug\ProductsShop.Client.pdb
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\JSON-Processing-Exercises\ProductsShop.Client\bin\Debug\Newtonsoft.Json.dll
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\JSON-Processing-Exercises\ProductsShop.Client\bin\Debug\Newtonsoft.Json.xml

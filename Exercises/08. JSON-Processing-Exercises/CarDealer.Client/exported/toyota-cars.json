@@ -1,0 +1,254 @@
+[
+  {
+    "Id": 117,
+    "Make": "Toyota",
+    "Model": "Camry Hybrid",
+    "Price": 3602.85,
+    "TravelledDistance": 954775807
+  },
+  {
+    "Id": 112,
+    "Make": "Toyota",
+    "Model": "Camry Hybrid",
+    "Price": 5763.96,
+    "TravelledDistance": 92275807
+  },
+  {
+    "Id": 134,
+    "Make": "Toyota",
+    "Model": "Camry Hybrid",
+    "Price": 1977.21,
+    "TravelledDistance": 2143647
+  },
+  {
+    "Id": 136,
+    "Make": "Toyota",
+    "Model": "Camry Hybrid",
+    "Price": 5852.89,
+    "TravelledDistance": 214647
+  },
+  {
+    "Id": 139,
+    "Make": "Toyota",
+    "Model": "Camry Hybrid",
+    "Price": 3162.49,
+    "TravelledDistance": 214647
+  },
+  {
+    "Id": 109,
+    "Make": "Toyota",
+    "Model": "Corolla",
+    "Price": 6849.20,
+    "TravelledDistance": 9223854775807
+  },
+  {
+    "Id": 113,
+    "Make": "Toyota",
+    "Model": "Corolla",
+    "Price": 2914.50,
+    "TravelledDistance": 92235807
+  },
+  {
+    "Id": 115,
+    "Make": "Toyota",
+    "Model": "Corolla",
+    "Price": 9644.80,
+    "TravelledDistance": 9223807
+  },
+  {
+    "Id": 122,
+    "Make": "Toyota",
+    "Model": "Corolla",
+    "Price": 1227.78,
+    "TravelledDistance": 975807
+  },
+  {
+    "Id": 124,
+    "Make": "Toyota",
+    "Model": "Corolla",
+    "Price": 6613.17,
+    "TravelledDistance": 21477
+  },
+  {
+    "Id": 120,
+    "Make": "Toyota",
+    "Model": "Corolla",
+    "Price": 11060.27,
+    "TravelledDistance": 2147
+  },
+  {
+    "Id": 130,
+    "Make": "Toyota",
+    "Model": "Prius",
+    "Price": 8019.99,
+    "TravelledDistance": 9223354775807
+  },
+  {
+    "Id": 111,
+    "Make": "Toyota",
+    "Model": "Prius",
+    "Price": 5232.16,
+    "TravelledDistance": 922337203685
+  },
+  {
+    "Id": 132,
+    "Make": "Toyota",
+    "Model": "Prius",
+    "Price": 7080.44,
+    "TravelledDistance": 92233775807
+  },
+  {
+    "Id": 128,
+    "Make": "Toyota",
+    "Model": "Prius",
+    "Price": 4570.81,
+    "TravelledDistance": 92233775807
+  },
+  {
+    "Id": 104,
+    "Make": "Toyota",
+    "Model": "Prius",
+    "Price": 1724.83,
+    "TravelledDistance": 9223372037
+  },
+  {
+    "Id": 135,
+    "Make": "Toyota",
+    "Model": "Prius",
+    "Price": 1977.21,
+    "TravelledDistance": 922337807
+  },
+  {
+    "Id": 108,
+    "Make": "Toyota",
+    "Model": "Prius",
+    "Price": 3127.84,
+    "TravelledDistance": 922337207
+  },
+  {
+    "Id": 137,
+    "Make": "Toyota",
+    "Model": "Prius",
+    "Price": 6242.54,
+    "TravelledDistance": 922335807
+  },
+  {
+    "Id": 118,
+    "Make": "Toyota",
+    "Model": "Prius",
+    "Price": 4812.63,
+    "TravelledDistance": 925807
+  },
+  {
+    "Id": 125,
+    "Make": "Toyota",
+    "Model": "Prius",
+    "Price": 2484.26,
+    "TravelledDistance": 283647
+  },
+  {
+    "Id": 106,
+    "Make": "Toyota",
+    "Model": "Prius",
+    "Price": 4657.22,
+    "TravelledDistance": 214747
+  },
+  {
+    "Id": 121,
+    "Make": "Toyota",
+    "Model": "Prius",
+    "Price": 1322.13,
+    "TravelledDistance": 21477
+  },
+  {
+    "Id": 114,
+    "Make": "Toyota",
+    "Model": "Prius",
+    "Price": 1620.80,
+    "TravelledDistance": 21477
+  },
+  {
+    "Id": 105,
+    "Make": "Toyota",
+    "Model": "Tacoma",
+    "Price": 1965.13,
+    "TravelledDistance": 96854775807
+  },
+  {
+    "Id": 119,
+    "Make": "Toyota",
+    "Model": "Tacoma",
+    "Price": 9134.72,
+    "TravelledDistance": 922337807
+  },
+  {
+    "Id": 107,
+    "Make": "Toyota",
+    "Model": "Tacoma",
+    "Price": 2309.82,
+    "TravelledDistance": 94775807
+  },
+  {
+    "Id": 138,
+    "Make": "Toyota",
+    "Model": "Tacoma",
+    "Price": 6942.99,
+    "TravelledDistance": 21474647
+  },
+  {
+    "Id": 116,
+    "Make": "Toyota",
+    "Model": "Tacoma",
+    "Price": 2306.69,
+    "TravelledDistance": 9225807
+  },
+  {
+    "Id": 133,
+    "Make": "Toyota",
+    "Model": "Tacoma",
+    "Price": 1186.06,
+    "TravelledDistance": 2147
+  },
+  {
+    "Id": 126,
+    "Make": "Toyota",
+    "Model": "Tacoma",
+    "Price": 5536.75,
+    "TravelledDistance": 927
+  },
+  {
+    "Id": 129,
+    "Make": "Toyota",
+    "Model": "Tacoma",
+    "Price": 3461.45,
+    "TravelledDistance": 247
+  },
+  {
+    "Id": 123,
+    "Make": "Toyota",
+    "Model": "Yaris",
+    "Price": 5832.10,
+    "TravelledDistance": 94775807
+  },
+  {
+    "Id": 131,
+    "Make": "Toyota",
+    "Model": "Yaris",
+    "Price": 1342.80,
+    "TravelledDistance": 21477
+  },
+  {
+    "Id": 110,
+    "Make": "Toyota",
+    "Model": "Yaris",
+    "Price": 3343.21,
+    "TravelledDistance": 21477
+  },
+  {
+    "Id": 127,
+    "Make": "Toyota",
+    "Model": "Yaris",
+    "Price": 4577.78,
+    "TravelledDistance": 9207
+  }
+]

@@ -1,0 +1,12 @@
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\XML-Processing-Exercises\CarDealerXmlImport\bin\Debug\CarDealerXmlImport.exe.config
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\XML-Processing-Exercises\CarDealerXmlImport\bin\Debug\CarDealerXmlImport.exe
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\XML-Processing-Exercises\CarDealerXmlImport\bin\Debug\CarDealerXmlImport.pdb
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\XML-Processing-Exercises\CarDealerXmlImport\bin\Debug\CarDealerData.dll
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\XML-Processing-Exercises\CarDealerXmlImport\bin\Debug\EntityFramework.dll
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\XML-Processing-Exercises\CarDealerXmlImport\bin\Debug\EntityFramework.SqlServer.dll
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\XML-Processing-Exercises\CarDealerXmlImport\bin\Debug\CarDealerData.pdb
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\XML-Processing-Exercises\CarDealerXmlImport\bin\Debug\EntityFramework.xml
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\XML-Processing-Exercises\CarDealerXmlImport\bin\Debug\EntityFramework.SqlServer.xml
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\XML-Processing-Exercises\CarDealerXmlImport\obj\Debug\CarDealerXmlImport.csprojResolveAssemblyReference.cache
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\XML-Processing-Exercises\CarDealerXmlImport\obj\Debug\CarDealerXmlImport.exe
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\XML-Processing-Exercises\CarDealerXmlImport\obj\Debug\CarDealerXmlImport.pdb

@@ -1,0 +1,10 @@
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\XML-Processing-Exercises\CarDealerData\bin\Debug\CarDealerData.dll.config
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\XML-Processing-Exercises\CarDealerData\bin\Debug\CarDealerData.dll
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\XML-Processing-Exercises\CarDealerData\bin\Debug\CarDealerData.pdb
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\XML-Processing-Exercises\CarDealerData\bin\Debug\EntityFramework.dll
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\XML-Processing-Exercises\CarDealerData\bin\Debug\EntityFramework.SqlServer.dll
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\XML-Processing-Exercises\CarDealerData\bin\Debug\EntityFramework.xml
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\XML-Processing-Exercises\CarDealerData\bin\Debug\EntityFramework.SqlServer.xml
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\XML-Processing-Exercises\CarDealerData\obj\Debug\CarDealerData.csprojResolveAssemblyReference.cache
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\XML-Processing-Exercises\CarDealerData\obj\Debug\CarDealerData.dll
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\XML-Processing-Exercises\CarDealerData\obj\Debug\CarDealerData.pdb

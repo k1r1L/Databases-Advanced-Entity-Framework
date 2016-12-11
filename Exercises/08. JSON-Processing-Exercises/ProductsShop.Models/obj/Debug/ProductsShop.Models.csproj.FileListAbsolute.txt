@@ -1,0 +1,5 @@
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\JSON-Processing-Exercises\ProductsShop.Models\bin\Debug\ProductsShop.Models.dll
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\JSON-Processing-Exercises\ProductsShop.Models\bin\Debug\ProductsShop.Models.pdb
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\JSON-Processing-Exercises\ProductsShop.Models\obj\Debug\ProductsShop.Models.csprojResolveAssemblyReference.cache
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\JSON-Processing-Exercises\ProductsShop.Models\obj\Debug\ProductsShop.Models.dll
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\JSON-Processing-Exercises\ProductsShop.Models\obj\Debug\ProductsShop.Models.pdb

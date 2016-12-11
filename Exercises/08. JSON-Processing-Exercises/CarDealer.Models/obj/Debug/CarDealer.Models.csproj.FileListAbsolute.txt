@@ -1,0 +1,7 @@
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\JSON-Processing-Exercises\CarDealer.Models\bin\Debug\CarDealer.Models.dll
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\JSON-Processing-Exercises\CarDealer.Models\bin\Debug\CarDealer.Models.pdb
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\JSON-Processing-Exercises\CarDealer.Models\obj\Debug\CarDealer.Models.csprojResolveAssemblyReference.cache
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\JSON-Processing-Exercises\CarDealer.Models\obj\Debug\CarDealer.Models.dll
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\JSON-Processing-Exercises\CarDealer.Models\obj\Debug\CarDealer.Models.pdb
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\JSON-Processing-Exercises\CarDealer.Models\bin\Debug\Newtonsoft.Json.dll
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\JSON-Processing-Exercises\CarDealer.Models\bin\Debug\Newtonsoft.Json.xml

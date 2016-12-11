@@ -1,0 +1,97 @@
+[
+  {
+    "name": "Allopurinol",
+    "price": 518.50,
+    "seller": "Patricia Fuller"
+  },
+  {
+    "name": "Echinacea Quartz Gum Support",
+    "price": 570.08,
+    "seller": "Fred Allen"
+  },
+  {
+    "name": "Gemcitabine",
+    "price": 594.79,
+    "seller": "Betty Ward"
+  },
+  {
+    "name": "Diastat",
+    "price": 614.14,
+    "seller": "Diana Harvey"
+  },
+  {
+    "name": "AVANDAMET",
+    "price": 632.08,
+    "seller": "Baker"
+  },
+  {
+    "name": "Acnezzol Base",
+    "price": 710.60,
+    "seller": "Carl Lawson"
+  },
+  {
+    "name": "Prostate",
+    "price": 716.05,
+    "seller": "Amanda Frazier"
+  },
+  {
+    "name": "Isosorbide Mononitrate",
+    "price": 789.91,
+    "seller": "Paula Hill"
+  },
+  {
+    "name": "Naproxen",
+    "price": 807.22,
+    "seller": "Schmidt"
+  },
+  {
+    "name": "Azithromycin",
+    "price": 813.87,
+    "seller": "Fred Allen"
+  },
+  {
+    "name": "Aquafresh",
+    "price": 849.93,
+    "seller": "Peterson"
+  },
+  {
+    "name": "Moore Medical Sinus Pain and Pressure Relief",
+    "price": 855.39,
+    "seller": "Moreno"
+  },
+  {
+    "name": "Perrigo Benzoyl Peroxide",
+    "price": 873.24,
+    "seller": "Billy Parker"
+  },
+  {
+    "name": "Levothyroxine Sodium",
+    "price": 885.86,
+    "seller": "Thomas Snyder"
+  },
+  {
+    "name": "Myristica Argentum Sinus Relief",
+    "price": 904.52,
+    "seller": "Joshua Murray"
+  },
+  {
+    "name": "Homeopathic Rheumatism",
+    "price": 967.08,
+    "seller": "Peterson"
+  },
+  {
+    "name": "Clearskin",
+    "price": 968.59,
+    "seller": "Thomas Snyder"
+  },
+  {
+    "name": "Megestrol Acetate",
+    "price": 976.15,
+    "seller": "Christina Patterson"
+  },
+  {
+    "name": "Retin-A MICRO",
+    "price": 995.98,
+    "seller": "Billy Parker"
+  }
+]

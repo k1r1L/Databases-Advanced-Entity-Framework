@@ -1,0 +1,16 @@
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\JSON-Processing-Exercises\CarDealer.Client\bin\Debug\CarDealer.Client.exe.config
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\JSON-Processing-Exercises\CarDealer.Client\bin\Debug\CarDealer.Client.exe
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\JSON-Processing-Exercises\CarDealer.Client\bin\Debug\CarDealer.Client.pdb
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\JSON-Processing-Exercises\CarDealer.Client\bin\Debug\CarDealer.Data.dll
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\JSON-Processing-Exercises\CarDealer.Client\bin\Debug\CarDealer.Models.dll
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\JSON-Processing-Exercises\CarDealer.Client\bin\Debug\EntityFramework.dll
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\JSON-Processing-Exercises\CarDealer.Client\bin\Debug\EntityFramework.SqlServer.dll
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\JSON-Processing-Exercises\CarDealer.Client\bin\Debug\CarDealer.Data.pdb
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\JSON-Processing-Exercises\CarDealer.Client\bin\Debug\CarDealer.Models.pdb
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\JSON-Processing-Exercises\CarDealer.Client\bin\Debug\EntityFramework.xml
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\JSON-Processing-Exercises\CarDealer.Client\bin\Debug\EntityFramework.SqlServer.xml
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\JSON-Processing-Exercises\CarDealer.Client\obj\Debug\CarDealer.Client.csprojResolveAssemblyReference.cache
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\JSON-Processing-Exercises\CarDealer.Client\obj\Debug\CarDealer.Client.exe
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\JSON-Processing-Exercises\CarDealer.Client\obj\Debug\CarDealer.Client.pdb
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\JSON-Processing-Exercises\CarDealer.Client\bin\Debug\Newtonsoft.Json.dll
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\JSON-Processing-Exercises\CarDealer.Client\bin\Debug\Newtonsoft.Json.xml

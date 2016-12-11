@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<products>
+  <product name="Allopurinol" price="518.50" seller="Gloria Alexander" />
+  <product name="Echinacea Quartz Gum Support" price="570.08" seller="Clarence Fowler" />
+  <product name="Gemcitabine" price="594.79" seller="Thompson" />
+  <product name="Diastat" price="614.14" seller="Amanda Frazier" />
+  <product name="AVANDAMET" price="632.08" seller="Fred Allen" />
+  <product name="Acnezzol Base" price="710.60" seller="Jennifer Riley" />
+  <product name="Prostate" price="716.05" seller="Jonathan Rodriguez" />
+  <product name="Isosorbide Mononitrate" price="789.91" seller="Diana Harvey" />
+  <product name="Naproxen" price="807.22" seller="Jennifer Riley" />
+  <product name="Azithromycin" price="813.87" seller="Schmidt" />
+  <product name="Aquafresh" price="849.93" seller="Rachel Johnson" />
+  <product name="Moore Medical Sinus Pain and Pressure Relief" price="855.39" seller="Marie Williamson" />
+  <product name="Perrigo Benzoyl Peroxide" price="873.24" seller="Patrick King" />
+  <product name="Levothyroxine Sodium" price="885.86" seller="Gary Stevens" />
+  <product name="Myristica Argentum Sinus Relief" price="904.52" seller="Bennett" />
+  <product name="Homeopathic Rheumatism" price="967.08" seller="Diana Harvey" />
+  <product name="Clearskin" price="968.59" seller="Amanda Frazier" />
+  <product name="Megestrol Acetate" price="976.15" seller="Fred Allen" />
+  <product name="Retin-A MICRO" price="995.98" seller="Patricia Fuller" />
+</products>

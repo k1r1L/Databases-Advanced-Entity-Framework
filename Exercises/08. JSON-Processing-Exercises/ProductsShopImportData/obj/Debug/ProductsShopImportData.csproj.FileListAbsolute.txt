@@ -1,0 +1,1 @@
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\JSON-Processing-Exercises\ProductsShopImportData\bin\Debug\ProductsShopImportData.exe.config
