@@ -1,0 +1,12 @@
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\CSharp-Auto-Mapping-Exercises\03. Projection\bin\Debug\_03.Projection.exe.config
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\CSharp-Auto-Mapping-Exercises\03. Projection\bin\Debug\_03.Projection.exe
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\CSharp-Auto-Mapping-Exercises\03. Projection\bin\Debug\_03.Projection.pdb
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\CSharp-Auto-Mapping-Exercises\03. Projection\bin\Debug\EntityFramework.dll
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\CSharp-Auto-Mapping-Exercises\03. Projection\bin\Debug\EntityFramework.SqlServer.dll
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\CSharp-Auto-Mapping-Exercises\03. Projection\bin\Debug\EntityFramework.xml
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\CSharp-Auto-Mapping-Exercises\03. Projection\bin\Debug\EntityFramework.SqlServer.xml
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\CSharp-Auto-Mapping-Exercises\03. Projection\obj\Debug\03. Projection.csprojResolveAssemblyReference.cache
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\CSharp-Auto-Mapping-Exercises\03. Projection\obj\Debug\_03.Projection.exe
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\CSharp-Auto-Mapping-Exercises\03. Projection\obj\Debug\_03.Projection.pdb
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\CSharp-Auto-Mapping-Exercises\03. Projection\bin\Debug\AutoMapper.dll
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\CSharp-Auto-Mapping-Exercises\03. Projection\bin\Debug\AutoMapper.xml

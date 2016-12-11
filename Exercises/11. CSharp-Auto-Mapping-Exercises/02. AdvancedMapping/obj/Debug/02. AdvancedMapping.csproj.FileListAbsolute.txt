@@ -1,0 +1,23 @@
+C:\Users\v\Documents\Visual Studio 2015\Projects\CSharp-Auto-Mapping-Exercises\02. AdvancedMapping\bin\Debug\_02.AdvancedMapping.exe.config
+C:\Users\v\Documents\Visual Studio 2015\Projects\CSharp-Auto-Mapping-Exercises\02. AdvancedMapping\bin\Debug\_02.AdvancedMapping.exe
+C:\Users\v\Documents\Visual Studio 2015\Projects\CSharp-Auto-Mapping-Exercises\02. AdvancedMapping\bin\Debug\_02.AdvancedMapping.pdb
+C:\Users\v\Documents\Visual Studio 2015\Projects\CSharp-Auto-Mapping-Exercises\02. AdvancedMapping\bin\Debug\EntityFramework.dll
+C:\Users\v\Documents\Visual Studio 2015\Projects\CSharp-Auto-Mapping-Exercises\02. AdvancedMapping\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\v\Documents\Visual Studio 2015\Projects\CSharp-Auto-Mapping-Exercises\02. AdvancedMapping\bin\Debug\EntityFramework.xml
+C:\Users\v\Documents\Visual Studio 2015\Projects\CSharp-Auto-Mapping-Exercises\02. AdvancedMapping\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\v\Documents\Visual Studio 2015\Projects\CSharp-Auto-Mapping-Exercises\02. AdvancedMapping\obj\Debug\_02.AdvancedMapping.exe
+C:\Users\v\Documents\Visual Studio 2015\Projects\CSharp-Auto-Mapping-Exercises\02. AdvancedMapping\obj\Debug\_02.AdvancedMapping.pdb
+C:\Users\v\Documents\Visual Studio 2015\Projects\CSharp-Auto-Mapping-Exercises\02. AdvancedMapping\bin\Debug\AutoMapper.dll
+C:\Users\v\Documents\Visual Studio 2015\Projects\CSharp-Auto-Mapping-Exercises\02. AdvancedMapping\bin\Debug\AutoMapper.xml
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\CSharp-Auto-Mapping-Exercises\02. AdvancedMapping\bin\Debug\_02.AdvancedMapping.exe.config
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\CSharp-Auto-Mapping-Exercises\02. AdvancedMapping\obj\Debug\_02.AdvancedMapping.exe
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\CSharp-Auto-Mapping-Exercises\02. AdvancedMapping\obj\Debug\_02.AdvancedMapping.pdb
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\CSharp-Auto-Mapping-Exercises\02. AdvancedMapping\bin\Debug\_02.AdvancedMapping.exe
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\CSharp-Auto-Mapping-Exercises\02. AdvancedMapping\bin\Debug\_02.AdvancedMapping.pdb
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\CSharp-Auto-Mapping-Exercises\02. AdvancedMapping\bin\Debug\AutoMapper.dll
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\CSharp-Auto-Mapping-Exercises\02. AdvancedMapping\bin\Debug\EntityFramework.dll
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\CSharp-Auto-Mapping-Exercises\02. AdvancedMapping\bin\Debug\EntityFramework.SqlServer.dll
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\CSharp-Auto-Mapping-Exercises\02. AdvancedMapping\bin\Debug\AutoMapper.xml
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\CSharp-Auto-Mapping-Exercises\02. AdvancedMapping\bin\Debug\EntityFramework.xml
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\CSharp-Auto-Mapping-Exercises\02. AdvancedMapping\bin\Debug\EntityFramework.SqlServer.xml
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exercises\CSharp-Auto-Mapping-Exercises\02. AdvancedMapping\obj\Debug\02. AdvancedMapping.csprojResolveAssemblyReference.cache
