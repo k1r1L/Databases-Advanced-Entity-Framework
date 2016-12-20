@@ -1,0 +1,12 @@
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exams\Exam-Weddings-Planner\WeddingsPlanner.Data\bin\Debug\WeddingsPlanner.Data.dll.config
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exams\Exam-Weddings-Planner\WeddingsPlanner.Data\bin\Debug\WeddingsPlanner.Data.dll
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exams\Exam-Weddings-Planner\WeddingsPlanner.Data\bin\Debug\WeddingsPlanner.Data.pdb
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exams\Exam-Weddings-Planner\WeddingsPlanner.Data\bin\Debug\EntityFramework.dll
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exams\Exam-Weddings-Planner\WeddingsPlanner.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exams\Exam-Weddings-Planner\WeddingsPlanner.Data\bin\Debug\WeddingsPlanner.Models.dll
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exams\Exam-Weddings-Planner\WeddingsPlanner.Data\bin\Debug\WeddingsPlanner.Models.pdb
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exams\Exam-Weddings-Planner\WeddingsPlanner.Data\bin\Debug\EntityFramework.xml
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exams\Exam-Weddings-Planner\WeddingsPlanner.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exams\Exam-Weddings-Planner\WeddingsPlanner.Data\obj\Debug\WeddingsPlanner.Data.csprojResolveAssemblyReference.cache
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exams\Exam-Weddings-Planner\WeddingsPlanner.Data\obj\Debug\WeddingsPlanner.Data.dll
+C:\Data Kiril\SoftUni\DB Fundamentals\Databases Advanced (Entity Framework)\Exams\Exam-Weddings-Planner\WeddingsPlanner.Data\obj\Debug\WeddingsPlanner.Data.pdb
